@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2022-04-13T12:47:57.984Z",
+  "timestamp": "2022-04-13T13:20:56.083Z",
   "version": {
     "major": 24,
     "minor": 30,
@@ -3582,14 +3582,6 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/ethereum/assets/0x69fa0feE221AD11012BAb0FdB45d444D3D2Ce71c/logo.png"
     },
     {
-      "address": "0x8798249c2E607446EfB7Ad49eC89dD1865Ff4272",
-      "chainId": 1,
-      "name": "SushiBar",
-      "symbol": "xSUSHI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/xsushi.jpg"
-    },
-    {
       "chainId": 1,
       "address": "0x618679dF9EfCd19694BB1daa8D00718Eacfa2883",
       "name": "XYZ Governance Token",
@@ -6829,14 +6821,6 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/polygon/assets/0x02649C1Ff4296038De4b9bA8F491b42b940A8252/logo.png"
     },
     {
-      "address": "0x6811079E3c63ED96Eb005384d7E7ec8810E3D521",
-      "chainId": 137,
-      "name": "SushiBar",
-      "symbol": "xSUSHI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/xsushi.jpg"
-    },
-    {
       "address": "0xb8cb8a7F4C2885C03e57E973C74827909Fdc2032",
       "chainId": 137,
       "name": "yearn.finance",
@@ -7227,14 +7211,6 @@
       "decimals": 18,
       "chainId": 256,
       "logoURI": "https://hecoinfo.com/token/images/HT_32.png"
-    },
-    {
-      "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
-      "chainId": 1284,
-      "name": "Sushi",
-      "symbol": "anySUSHI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
     },
     {
       "address": "0xc234A67a4F840E61adE794be47de455361b52413",
@@ -8317,14 +8293,6 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/celo/assets/0x74c0C58B99b68cF16A717279AC2d056A34ba2bFe/logo.png"
     },
     {
-      "address": "0xD15EC721C2A896512Ad29C671997DD68f9593226",
-      "name": "Optics SushiToken v1",
-      "symbol": "SUSHIv1",
-      "decimals": 18,
-      "chainId": 42220,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
-    },
-    {
       "address": "0x00Be915B9dCf56a3CBE739D9B9c202ca692409EC",
       "name": "Ubeswap",
       "symbol": "UBE",
@@ -8531,14 +8499,6 @@
       "symbol": "MOVR",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/movr.jpg"
-    },
-    {
-      "chainId": 43114,
-      "address": "0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc",
-      "decimals": 18,
-      "name": "Old SushiToken",
-      "symbol": "oldSUSHI",
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/avalanche/0x39cf1BD5f15fb22eC3D9Ff86b0727aFc203427cc.jpg"
     },
     {
       "chainId": 43114,
