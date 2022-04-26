@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2022-04-07T03:12:43.884Z",
+  "timestamp": "2022-04-26T07:30:14.450Z",
   "version": {
     "major": 24,
     "minor": 30,
@@ -7657,17 +7657,33 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
     },
     {
-      "name": "Custom DGFI Token",
-      "address": "0xB9deFCc42c48a57402a715F27CC03e94808f0285",
-      "symbol": "DGFI",
+      "name": "Custom ERC20 Token2",
+      "address": "0x81Eeaf8F98e9DfB48923Cab9d234013FCd8C4b8D",
+      "symbol": "GLD",
       "decimals": 18,
       "chainId": 1287,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
     },
     {
-      "name": "TWC Glimmer",
-      "address": "0xdC611CB835787AB17483D841F06de8ebE433c72C",
+      "name": "Custom ERC20 Token3",
+      "address": "0x1A4A94a202b97cE490E867634b2535815B213349",
+      "symbol": "SLD",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+    },
+    {
+      "name": "Custom ERC20 Token1",
+      "address": "0x1056c786DDa6F94483b3fD06d2C7FC9b7477cA94",
       "symbol": "TWC",
+      "decimals": 18,
+      "chainId": 1287,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+    },
+    {
+      "name": "Wrapped Glimmer",
+      "address": "0xA5fd1F6e7980Fd5cA9d062a762030D449990BBBf",
+      "symbol": "WGLMR",
       "decimals": 18,
       "chainId": 1287,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
