@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2022-04-29T09:26:17.539Z",
+  "timestamp": "2022-04-29T10:38:29.264Z",
   "version": {
     "major": 24,
     "minor": 30,
@@ -7663,6 +7663,14 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
+    },
+    {
+      "address": "0x9f6e0E615585a8248dE15362393565415E71DE3D",
+      "chainId": 1287,
+      "name": "EnergyFi",
+      "symbol": "EFT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B.jpg"
     },
     {
       "name": "Custom ERC20 Token2",
