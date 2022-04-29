@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2022-04-26T08:18:31.537Z",
+  "timestamp": "2022-04-29T09:26:17.539Z",
   "version": {
     "major": 24,
     "minor": 30,
@@ -7657,6 +7657,14 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/yfi.jpg"
     },
     {
+      "chainId": 1287,
+      "address": "0xE55f16d23Cc8B1813ae44093a555AFa498bb8dfe",
+      "name": "DAI Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/assets/master/blockchains/arbitrum/assets/0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1/logo.png"
+    },
+    {
       "name": "Custom ERC20 Token2",
       "address": "0x81Eeaf8F98e9DfB48923Cab9d234013FCd8C4b8D",
       "symbol": "GLD",
@@ -7679,6 +7687,22 @@
       "decimals": 18,
       "chainId": 1287,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+    },
+    {
+      "chainId": 1287,
+      "address": "0xC53ca2e8A0d26bd498D38064e40bB7F712180a9B",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    },
+    {
+      "address": "0x05Bf07102EfEbb83Ba5F475fB18F843E8736B6E8",
+      "chainId": 1287,
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
     },
     {
       "name": "Wrapped Glimmer",
