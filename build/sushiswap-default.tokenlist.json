@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2022-04-29T10:38:29.264Z",
+  "timestamp": "2022-05-11T08:17:56.214Z",
   "version": {
     "major": 24,
     "minor": 30,
@@ -7670,7 +7670,7 @@
       "name": "EnergyFi",
       "symbol": "EFT",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B.jpg"
+      "logoURI": "https://energyfi-assets.s3.us-east-2.amazonaws.com/logo_Energyfi_token+(1).svg"
     },
     {
       "name": "Custom ERC20 Token2",
