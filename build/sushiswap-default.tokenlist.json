@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2022-05-11T08:17:56.214Z",
+  "timestamp": "2022-06-24T09:27:48.548Z",
   "version": {
     "major": 24,
     "minor": 30,
@@ -7329,20 +7329,20 @@
       "logoURI": "https://hecoinfo.com/token/images/HT_32.png"
     },
     {
-      "address": "0x2C78f1b70Ccf63CDEe49F9233e9fAa99D43AA07e",
-      "chainId": 1284,
-      "name": "Sushi",
-      "symbol": "anySUSHI",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/sushi.jpg"
-    },
-    {
-      "address": "0xc234A67a4F840E61adE794be47de455361b52413",
+      "address": "0x765277eebeca2e31912c9946eae1021199b39c61",
       "chainId": 1284,
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+    },
+    {
+      "address": "0xa18546d369cb066fd3fdae8f26a77ad26c32a5e4",
+      "chainId": 1284,
+      "name": "Energyfi Token",
+      "symbol": "EFT",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15602.png"
     },
     {
       "address": "0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
@@ -7361,7 +7361,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
     },
     {
-      "address": "0x8f552a71EFE5eeFc207Bf75485b356A0b3f01eC9",
+      "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
       "chainId": 1284,
       "name": "USD Coin",
       "symbol": "USDC",
@@ -7369,7 +7369,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
     },
     {
-      "address": "0x8e70cD5B4Ff3f62659049e74b6649c6603A0E594",
+      "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
       "chainId": 1284,
       "name": "Tether USD",
       "symbol": "USDT",
@@ -7393,17 +7393,9 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
     },
     {
-      "address": "0x30D2a9F5FDf90ACe8c17952cbb4eE48a55D916A7",
-      "chainId": 1284,
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/eth.jpg"
-    },
-    {
       "name": "Wrapped Glimmer",
       "chainId": 1284,
-      "address": "0xAcc15dC74880C9944775448304B263D191c6077F",
+      "address": "0xacc15dc74880c9944775448304b263d191c6077f",
       "symbol": "WGLMR",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
@@ -7670,7 +7662,7 @@
       "name": "EnergyFi",
       "symbol": "EFT",
       "decimals": 18,
-      "logoURI": "https://energyfi-assets.s3.us-east-2.amazonaws.com/logo_Energyfi_token+(1).svg"
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/logos/main/network/ethereum/0xc7283b66Eb1EB5FB86327f08e1B5816b0720212B.jpg"
     },
     {
       "name": "Custom ERC20 Token2",
