@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2022-06-24T13:20:23.869Z",
+  "timestamp": "2022-07-05T13:38:03.827Z",
   "version": {
     "major": 24,
     "minor": 30,
@@ -7337,7 +7337,7 @@
       "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
     },
     {
-      "address": "0xEb813611a8B5E2f8559F1A156c20904426de1147",
+      "address": "0xA423E7eEB60547d9C7b65005477b63ae7CE67E62",
       "chainId": 1284,
       "name": "Energyfi Token",
       "symbol": "EFT",
