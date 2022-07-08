@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2022-07-05T13:38:03.827Z",
+  "timestamp": "2022-07-08T08:32:58.210Z",
   "version": {
     "major": 24,
     "minor": 30,
@@ -7342,23 +7342,7 @@
       "name": "Energyfi Token",
       "symbol": "EFT",
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15602.png"
-    },
-    {
-      "address": "0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
-      "chainId": 1284,
-      "name": "Frax",
-      "symbol": "FRAX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
-    },
-    {
-      "address": "0x2CC0A9D8047A5011dEfe85328a6f26968C8aaA1C",
-      "chainId": 1284,
-      "name": "Frax Share",
-      "symbol": "FXS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
+      "logoURI": "https://energyfi.app/static/media/eLogo.b8439c58.svg"
     },
     {
       "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
