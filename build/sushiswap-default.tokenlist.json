@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2022-07-12T07:57:42.854Z",
+  "timestamp": "2022-08-22T10:33:49.848Z",
   "version": {
     "major": 24,
     "minor": 30,
@@ -7334,7 +7334,7 @@
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/dai.jpg"
+      "logoURI": "https://raw.githubusercontent.com/ujjwalsahayatwork/icons/main/tokens/dai.jpg"
     },
     {
       "address": "0xA423E7eEB60547d9C7b65005477b63ae7CE67E62",
@@ -7342,7 +7342,7 @@
       "name": "Energyfi Token",
       "symbol": "EFT",
       "decimals": 18,
-      "logoURI": "https://energyfi.app/bridge/static/media/eLogo.b8439c58.svg"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15602.png"
     },
     {
       "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
@@ -7350,7 +7350,7 @@
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+      "logoURI": "https://raw.githubusercontent.com/ujjwalsahayatwork/icons/main/tokens/usdc.jpg"
     },
     {
       "address": "0xefaeee334f0fd1712f9a8cc375f427d9cdd40d73",
@@ -7358,23 +7358,7 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdt.jpg"
-    },
-    {
-      "address": "0x085416975fe14C2A731a97eC38B9bF8135231F62",
-      "chainId": 1284,
-      "name": "TerraUSD",
-      "symbol": "UST",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/ust.jpg"
-    },
-    {
-      "address": "0x1DC78Acda13a8BC4408B207c9E48CDBc096D95e0",
-      "chainId": 1284,
-      "name": "Wrapped Bitcoin",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/btc.jpg"
+      "logoURI": "https://raw.githubusercontent.com/ujjwalsahayatwork/icons/main/tokens/usdt.jpg"
     },
     {
       "name": "Wrapped Glimmer",
@@ -7385,12 +7369,12 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
     },
     {
-      "address": "0x4A58260Cece4fe85641a6c706E70573a9A71F395",
+      "address": "0xFfFFfFff1FcaCBd218EDc0EbA20Fc2308C778080",
       "chainId": 1284,
-      "name": "EnergyfiBar",
-      "symbol": "xEFT",
-      "decimals": 18,
-      "logoURI": "https://energyfi.app/bridge/static/media/eLogo.b8439c58.svg"
+      "name": "xcDOT Token",
+      "symbol": "xcDOT",
+      "decimals": 10,
+      "logoURI": "https://raw.githubusercontent.com/ujjwalsahayatwork/icons/main/tokens/xcDOT.png"
     },
     {
       "name": "Aave - AnySwap",
