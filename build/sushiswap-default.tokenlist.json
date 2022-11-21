@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2022-08-23T14:21:07.030Z",
+  "timestamp": "2022-11-21T06:54:01.154Z",
   "version": {
     "major": 24,
     "minor": 30,
@@ -7335,6 +7335,14 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ujjwalsahayatwork/icons/main/tokens/dai.jpg"
+    },
+    {
+      "address": "0xE6cDD3a275c976BcA5d3De4F96c7514B899f0434",
+      "chainId": 1284,
+      "name": "Echain Token",
+      "symbol": "ECT",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/ujjwalsahayatwork/icons/main/tokens/echain.png"
     },
     {
       "address": "0xA423E7eEB60547d9C7b65005477b63ae7CE67E62",
